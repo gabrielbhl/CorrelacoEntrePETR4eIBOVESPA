@@ -1,1 +1,2 @@
-# Correla-o-entre-PETR4-IBOVESPA-2002-2010-
+Correlação entre as séries temporais da PETR4 e IBOVESPA, no período de 2002 a 2010.
+
